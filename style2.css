@@ -3,12 +3,14 @@
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+/* only necessary when using jumbotron
 .jumbotron {
 	margin-bottom: 0px;
 	color: white;
 	background-color: #444;
 }
-
+*/
 .navbar {
 	border-bottom: 0px;
 	
